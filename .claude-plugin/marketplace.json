@@ -1,0 +1,15 @@
+{
+  "name": "nallwhy",
+  "description": "A collection of Claude Code plugins by nallwhy",
+  "owner": {
+    "name": "nallwhy"
+  },
+  "plugins": [
+    {
+      "name": "elixir",
+      "source": "./plugins/elixir",
+      "description": "Elixir development skills for Claude Code. Includes package setup and AI dev environment configuration.",
+      "version": "1.0.0"
+    }
+  ]
+}
