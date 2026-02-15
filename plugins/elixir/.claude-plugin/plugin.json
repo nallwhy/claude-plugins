@@ -1,0 +1,9 @@
+{
+  "name": "elixir",
+  "description": "Elixir development skills for Claude Code. Includes package setup and AI dev environment configuration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nallwhy"
+  },
+  "repository": "https://github.com/nallwhy/claude-plugins"
+}
