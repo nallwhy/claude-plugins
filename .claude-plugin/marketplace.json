@@ -9,7 +9,7 @@
       "name": "elixir",
       "source": "./plugins/elixir",
       "description": "Elixir development skills for Claude Code. Includes package setup and AI dev environment configuration.",
-      "version": "1.0.0"
+      "version": "1.1.0"
     }
   ]
 }
