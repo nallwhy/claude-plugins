@@ -1,5 +1,5 @@
 ---
-name: ai-dev-setup
+name: elixir-ai-dev-setup
 description: Set up AI-assisted development tools (usage_rules, tidewave) for a Phoenix project. Use when initializing AI development environment.
 disable-model-invocation: true
 ---

@@ -1,5 +1,5 @@
 ---
-name: pkg-setup
+name: elixir-pkg-setup
 description: Install and configure Elixir packages into a project. Use when setting up any Elixir dependency.
 argument-hint: [packages...]
 allowed-tools: Read(~/.claude/plugins/marketplaces/nallwhy/plugins/elixir/skills/pkg-setup/**), Read(mix.exs), Read(config/**), Edit(mix.exs), Edit(config/**), WebFetch(domain:hexdocs.pm), Bash(mix *)
